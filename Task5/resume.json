@@ -1,0 +1,21 @@
+{
+  "name": "John Doe",
+  "email": "john@example.com",
+  "phone": "123-456-7890",
+  "summary": "Experienced software engineer.",
+  "skills": ["Python", "Django", "Git", "Docker"],
+  "experience": [
+    {
+      "company": "TechCorp",
+      "role": "Backend Developer",
+      "duration": "2020 – 2023"
+    }
+  ],
+  "education": [
+    {
+      "school": "State University",
+      "degree": "B.Sc. Computer Science",
+      "year": "2019"
+    }
+  ]
+}
